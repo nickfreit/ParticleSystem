@@ -1,3 +1,6 @@
+/* Code to have ball bounce inside 3D cube.
+Click the mouse for ball to begin bouncing. */
+
 Ball b;
 float time;
 float timeElapsed;
